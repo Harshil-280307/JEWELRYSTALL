@@ -630,3 +630,14 @@ flex-direction: column;
     width: 20%;
     margin-right: 100px;
 }
+
+
+/* added by harshil */
+
+.cartHeading{
+    text-align: center;
+}
+
+.your_items{
+    text-align: center;
+}
